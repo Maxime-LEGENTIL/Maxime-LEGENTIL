@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello World 👋
 
-<!--
-**Maxime-LEGENTIL/Maxime-LEGENTIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Mais, qui suis-je ?
+Je m'appelle Maxime LE GENTIL, j'ai 26 ans, je suis passionné par le développement Web depuis bientôt une dizaine d'années.
+Ne faisant que du développement sur mon temps libre et souhaitant me reconvertir professionnellement, j'ai commencé une formation Développeur Fullstack en Juillet 2023 chez l'école O'clock pour une durée de 6 mois.
 
-Here are some ideas to get you started:
+## Technos 🔭
+- HTML5
+- CSS
+- PHP
+- Javascript (Vanilla)
+- Bootstrap
+- Markdown
+- Git
+- Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Environnement ⚡
+- Windows
+- Linux
+- VSCode
+
+## Design 🌱
+- Figma
+
+## Et si je veux entrer en contact avec toi ?!
+- Linkedin : https://www.linkedin.com/in/maxime-le-gentil/
+- Mail : maxime.legentil17@gmail.com
